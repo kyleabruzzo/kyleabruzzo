@@ -37,9 +37,9 @@ I am an enthusiastic developer with a keen interest in LUA and a strong passion 
 
 ## 📊 My Github Stats
 
-[![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=deckl337)](https://github.com/anuraghazra/github-readme-stats)
+[![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyleabruzzo)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deckl337&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyleabruzzo&theme=tokyonight)
 
 > Note: Top languages do not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub.
 
